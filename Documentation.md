@@ -54,6 +54,9 @@ Astuces et conseils pour progresser dans le jeu :
 Crédits 
 
 Chef de projet : Madalina Maftei 
+
 Programmeurs : Madalina Maftei, Aghiles Louda, Mathieu Echarte 
+
 Testeurs : Madalina Maftei, Aghiles Louda 
+
 Documentation : Mathieu Echarte 
